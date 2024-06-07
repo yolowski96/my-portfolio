@@ -1,0 +1,63 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "FieldContent",
+				"value": "log",
+				"type": "Text"
+			},
+			"content_type": {
+				"__TYPE__": "FieldContent",
+				"value": "Project",
+				"type": "Select"
+			},
+			"description": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Fugiat laborum aute pariatur elit adipisicing deserunt officia dolore dolor est consectetur velit eu. Labore cupidatat anim eu aliquip qui labore culpa aliqua consequat enim. Cupidatat magna quis sunt exercitation eu."
+						}
+					}
+				]
+			},
+			"fallback_item_image": {
+				"origin": {
+					"id": "main",
+					"url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa",
+					"width": 2747,
+					"height": 4120
+				},
+				"url": "https://images.unsplash.com/photo-1504198070170-4ca53bb1c1fa",
+				"width": 2747,
+				"height": 4120,
+				"edit": {
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					},
+					"background": "transparent"
+				},
+				"credits": null,
+				"alt": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"view_more_text": {
+				"__TYPE__": "FieldContent",
+				"value": "worse",
+				"type": "Text"
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	}
+]

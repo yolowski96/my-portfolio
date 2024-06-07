@@ -1,0 +1,24 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"first_name": {
+				"__TYPE__": "FieldContent",
+				"value": "open",
+				"type": "Text"
+			},
+			"last_name": {
+				"__TYPE__": "FieldContent",
+				"value": "copper",
+				"type": "Text"
+			},
+			"tag_line": {
+				"__TYPE__": "FieldContent",
+				"value": "inside",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]
